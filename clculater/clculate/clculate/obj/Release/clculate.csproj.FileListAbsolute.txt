@@ -1,0 +1,13 @@
+C:\Users\vic.lee\Desktop\C# 練習\clculater\clculate object\clculate\clculate\bin\Release\clculate.exe.config
+C:\Users\vic.lee\Desktop\C# 練習\clculater\clculate object\clculate\clculate\bin\Release\clculate.exe
+C:\Users\vic.lee\Desktop\C# 練習\clculater\clculate object\clculate\clculate\bin\Release\clculate.pdb
+C:\Users\vic.lee\Desktop\C# 練習\clculater\clculate object\clculate\clculate\obj\Release\clculate.Form1.resources
+C:\Users\vic.lee\Desktop\C# 練習\clculater\clculate object\clculate\clculate\obj\Release\clculate.Properties.Resources.resources
+C:\Users\vic.lee\Desktop\C# 練習\clculater\clculate object\clculate\clculate\obj\Release\clculate.csproj.GenerateResource.Cache
+C:\Users\vic.lee\Desktop\C# 練習\clculater\clculate object\clculate\clculate\obj\Release\clculate.exe
+C:\Users\vic.lee\Desktop\C# 練習\clculater\clculate object\clculate\clculate\obj\Release\clculate.pdb
+C:\Users\vic.lee\Desktop\C# 練習\clculater\clculate object\clculate\clculate\bin\Release\clculate.exe.manifest
+C:\Users\vic.lee\Desktop\C# 練習\clculater\clculate object\clculate\clculate\bin\Release\clculate.application
+C:\Users\vic.lee\Desktop\C# 練習\clculater\clculate object\clculate\clculate\obj\Release\clculate.csprojResolveAssemblyReference.cache
+C:\Users\vic.lee\Desktop\C# 練習\clculater\clculate object\clculate\clculate\obj\Release\clculate.exe.manifest
+C:\Users\vic.lee\Desktop\C# 練習\clculater\clculate object\clculate\clculate\obj\Release\clculate.application
